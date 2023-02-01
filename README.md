@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nixa001
 - 👀 I am very interested and passionate about computer science, especially programming. 
 - 🌱 I’m currently learning programing
-- 💞️ Here I share my evolution on the different programming languages I study
+- 🧑‍💻 Here I share my evolution on the different programming languages I study
 - ⭐ A small star would give me the greatest pleasure 😉
 - ☑️ Join me in my learning journey and let's see what we can create together! 💻🚀
 
