@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning programing
 - 🧑‍💻 Here I share my evolution on the different programming languages I study
 - ⭐ A small star would give me the greatest pleasure 😉
-- ☑️ Join me in my learning journey and let's see what we can create together! 💻🚀
+- ☑️ Join me in my learning journey and let's see what we can create together! 🚀
 
 <!---
 Nixa001/Nixa001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
