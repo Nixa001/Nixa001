@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=60&duration=4000&pause=1000&color=2C98C8&width=1500&height=100&lines=%F0%9F%91%8B%E2%80%8BHello+!++I'm+a+Full-stack+Developer+%E2%80%8B%F0%9F%96%A5%EF%B8%8F%E2%80%8B)](https://git.io/typing-svg)
+
 # 💫 About Me:
 
 - 👋 Hi, I’m @Nixa001<br> 👀 I am very interested and passionate about computer science, especially programming. <br> 🌱 I’m currently learning programing<br> 🧑‍💻 Here I share my evolution on the different programming languages I study<br> ⭐ A small star would give me the greatest pleasure 😉<br> ☑️ Join me in my learning journey and let's see what we can create together! 🚀<br>
