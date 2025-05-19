@@ -78,6 +78,7 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) 
+![Jira](https://img.shields.io/badge/jira-%23026AB7.svg?style=for-the-badge&logo=jira&logoColor=white) 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 </details>
 
@@ -87,29 +88,30 @@
   
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) 
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
+![Hostinger](https://img.shields.io/badge/hostinger-%23FF9900.svg?style=for-the-badge&logo=hostinger&logoColor=white)
+![Render](https://img.shields.io/badge/render-%23FF0900.svg?style=for-the-badge&logo=render&logoColor=white)
+![Netlify](https://img.shields.io/badge/netlify-%234EA94B.svg?style=for-the-badge&logo=netlify&logoColor=green)
 </details>
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nixa001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="Nicolas's Github stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nixa001&theme=tokyonight&hide_border=true" width="400" alt="Nicolas's Github streak stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nixa001&theme=dracula&hide_border=true&include_all_commits=true&count_private=true" width="400" alt="Nicolas's Github stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nixa001&theme=dracula&hide_border=true" width="400" alt="Nicolas's Github streak stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nixa001&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="345" alt="Nicolas's language stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nixa001&theme=dracula&hide_border=true&include_all_commits=true&count_private=true&layout=compact" width="345" alt="Nicolas's language stats" />
 </div>
 
 ## 🌟 Featured Projects
 
 <div align="center">
   <a href="https://github.com/Nixa001/babble-social">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nixa001&repo=babble-social&theme=tokyonight&hide_border=true" width="345" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nixa001&repo=babble-social&theme=dracula&hide_border=true" width="345" />
   </a>
   <a href="https://github.com/Nixa001/Space-Invader">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nixa001&repo=Space-Invader&theme=tokyonight&hide_border=true" width="345" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Nixa001&repo=Space-Invader&theme=dracula&hide_border=true" width="345" />
   </a>
 </div>
 
@@ -127,7 +129,7 @@
 
 <div align="center">
   
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
   
 </div>
 
