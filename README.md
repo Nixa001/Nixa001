@@ -69,6 +69,7 @@
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Vagrant](https://img.shields.io/badge/Vagrant-FF00ff00?style=for-the-badge&logo=vagrant&logoColor=white)
 </details>
 
 <details open>
