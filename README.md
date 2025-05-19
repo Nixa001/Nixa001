@@ -1,11 +1,12 @@
 # 💫 About Me:
 
 - Hello 👋 I'm Nicolas, a Fullstack Developer | Cloud & DevOps Enthusiast ☁️🚀
-Passionate about building digital tools and impactful solutions.
-💻 2+ years of experience | JavaScript, Go, React, Next.js, Docker
-📦 Exploring Cloud & DevOps | Automation, CI/CD, Infra as Code
-🌍 Based in Senegal | Driven by impact, freedom, and innovation
-🔗 Let's connect and build the future together!<br>
+- I turn ideas into digital products.
+- 💻 Experienced with JavaScript, Go, React, Next.js, Docker, SQL
+- 🌐 Passionate about web technologies and open source
+- ⚙️ Exploring Cloud & DevOps | Automation, CI/CD, Infra as Code
+- 📍 Based in Senegal | Always learning, always building
+- 🔗 Let's connect and build the future together!<br>
 
 ## 🌐 Socials:
 
