@@ -2,7 +2,7 @@
 
 <div align="center">
   <p>
-    <a href="https://linkedin.com/in/nicolas-cor-faye-js"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/nicolas-cor-faye"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
     <a href="mailto:nicolasfaye31@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
     <a href="https://discord.gg/Nixa001"><img src="https://img.shields.io/badge/-Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/></a>
     <img src="https://komarev.com/ghpvc/?username=Nixa001&style=flat-square&color=blueviolet" alt="Profile views"/>
