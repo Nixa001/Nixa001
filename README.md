@@ -1,6 +1,11 @@
 # 💫 About Me:
 
-- 👋 Hi, I’m @Nixa001<br> 👀 I am very interested and passionate about computer science, especially programming. <br> 🌱 I’m currently learning programing<br> 🧑‍💻 Here I share my evolution on the different programming languages I study<br> ⭐ A small star would give me the greatest pleasure 😉<br> ☑️ Join me in my learning journey and let's see what we can create together! 🚀<br>
+- Hello 👋 I'm Nicolas, a Fullstack Developer | Cloud & DevOps Enthusiast ☁️🚀
+Passionate about building digital tools and impactful solutions.
+💻 2+ years of experience | JavaScript, Go, React, Next.js, Docker
+📦 Exploring Cloud & DevOps | Automation, CI/CD, Infra as Code
+🌍 Based in Senegal | Driven by impact, freedom, and innovation
+🔗 Let's connect and build the future together!<br>
 
 ## 🌐 Socials:
 
