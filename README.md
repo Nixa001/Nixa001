@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=100%&section=header&text=Nicolas%20Faye%20|%20Nixa001&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Cloud%20|%20Devops%20Enthusiast%20&descAlignY=55&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&width=100%&section=header&text=Nicolas%20Faye%20|%20Nixa001&fontSize=50&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20|%20Cloud%20Devops%20Enthusiast%20&descAlignY=55&descAlign=50)
 
 <div align="center">
   <p>
