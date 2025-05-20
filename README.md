@@ -12,9 +12,6 @@
 ## 👨‍💻 About Me
 
 
-<img align="right" width="400" src="https://github.com/Nixa001/Nixa001/blob/main/coding.gif?raw=true" alt="Coding gif" />
-
-
 - 👋 Hello! I'm Nicolas, turning ideas into digital products
 - 💻 Fullstack Developer passionate about web technologies
 - ☁️ Cloud & DevOps enthusiast exploring automation & infrastructure as code
